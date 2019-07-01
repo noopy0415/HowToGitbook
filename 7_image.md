@@ -1,11 +1,10 @@
 # image
 
+## image
+
 ![](.gitbook/assets/suharutakyanfuin.jpg)
 
-<br>
-
-# ここからコード
-
+## ここからコード
 
 ```text
 # image

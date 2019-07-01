@@ -1,14 +1,14 @@
 # PageLink
 
-{% page-ref page="1_head.md" %}
+## PageLink
 
-<br>
+{% page-ref page="1\_head.md" %}
 
-# ここからコード
+## ここからコード
 
-
-```
+```text
 # PageLink
 
 {% page-ref page="header/heddno.md" %}
 ```
+

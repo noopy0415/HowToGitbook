@@ -1,8 +1,11 @@
 # CodeBlock\(\`\`\`\)
 
+## CodeBlock\(\`\`\`\)
+
 ```text
 code block
 ```
+
 {% code-tabs %}
 {% code-tabs-item title="bash." %}
 ```bash
@@ -107,11 +110,21 @@ plain1
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-<br>
+{% tabs %}
+{% tab title="問題" %}
+自動生成されたファイルの中に不要なファイルがあります。どれでしょう？
+{% endtab %}
 
-# ここからコード
+{% tab title="解答" %}
+* create
+* update
+* destroy
+{% endtab %}
+{% endtabs %}
 
-~~~
+## ここからコード
+
+```text
 # CodeBlock\(\`\`\`\)
 
 ```text
@@ -220,4 +233,5 @@ plain1
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-~~~
+```
+

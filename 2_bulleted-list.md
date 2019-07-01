@@ -1,5 +1,7 @@
 # Bulleted list\(・\)
 
+## Bulleted list\(・\)
+
 * list1
 * list2
 * list3
@@ -11,9 +13,7 @@
       * list2-1-1-1
         * list2-1-1-1 
 
-<br>
-
-# ここからコード
+## ここからコード
 
 ```text
 # Bulleted list\(・\)

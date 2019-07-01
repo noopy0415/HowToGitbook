@@ -1,5 +1,7 @@
 # Hint
 
+## Hint
+
 {% hint style="info" %}
 Hint!!
 
@@ -24,9 +26,7 @@ Success!!
 Successの内容
 {% endhint %}
 
-<br>
-
-# ここからコード
+## ここからコード
 
 ```text
 # Hint

@@ -1,5 +1,7 @@
 # Tabs
 
+## Tabs
+
 {% tabs %}
 {% tab title="First Tab" %}
 タブ1
@@ -10,9 +12,7 @@
 {% endtab %}
 {% endtabs %}
 
-<br>
-
-# ここからコード
+## ここからコード
 
 ```text
 # Tabs

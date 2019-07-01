@@ -4,6 +4,8 @@ description: page description(optional)
 
 # task list\(□\)
 
+## task list\(□\)
+
 * [ ] task1
 * [ ] task2
 * [ ] task3
@@ -12,9 +14,7 @@ description: page description(optional)
   * [ ] task1-1-1
   * [ ] 
 
-<br>
-
-# ここからコード
+## ここからコード
 
 ```text
 ---

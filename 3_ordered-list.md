@@ -4,6 +4,8 @@ description: ordered list description
 
 # Ordered list\(1.\)
 
+## Ordered list\(1.\)
+
 1. 一
 2. 二
 3. 三
@@ -13,9 +15,7 @@ description: ordered list description
    1. 二の一
       1. 二の一の一
 
-<br>
-
-# ここからコード
+## ここからコード
 
 ```text
 ---

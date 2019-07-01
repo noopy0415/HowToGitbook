@@ -1,13 +1,12 @@
 # Table
 
+## Table
+
 | title1 | title2 |
 | :--- | :--- |
 | content1 | content |
 
-<br>
-
-# ここからコード
-
+## ここからコード
 
 ```text
 # Table
@@ -16,3 +15,4 @@
 | :--- | :--- |
 | content1 | content |
 ```
+
